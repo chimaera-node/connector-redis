@@ -1,0 +1,20 @@
+{
+  "name": "@chimaera/connector-redis",
+  "version": "0.0.1",
+  "description": "redis_config => redis_connection",
+  "author": "Richard Tong",
+  "license": "UNLICENSED",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "github:chimaera-node/connector-redis"
+  },
+  "dependencies": {
+    "@chimaera/exception": "latest",
+    "@chimaera/uri": "latest",
+    "rubico": "latest"
+  },
+  "devDependencies": {
+    "a-sert": "latest"
+  }
+}
